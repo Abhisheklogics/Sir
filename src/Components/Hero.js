@@ -1,10 +1,10 @@
 import Image from 'next/image';
-import Image1 from '../../public/as.jpg';
+import Image1 from '../../public/Amarjeet-Singh-Chauhan.png';
 
 export default function Hero() {
   return (
-    <section className="about  md:py-32" id="about"> 
-      <div className="container mx-auto"> 
+    <section className="  md:py-32" > 
+      <div className=" mx-auto"> 
         <div className="flex flex-wrap gap-16 md:gap-24"> 
           <div className="w-full md:w-1/2  absolute  ml-[400px] mt-32"> 
             <Image
